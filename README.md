@@ -209,5 +209,4 @@ df1
 
 # Result
 Hence the data was cleaned , outliers were detected and removed.
-# Result
-          <<include your Result here>>
+
